@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 
 /**
- * Small Cube experiment and this is my Commment here asd
+ * Small Cube experiment and this is my Commment here
  */
 public class Main extends JFrame {
 	private Cube rubic;
